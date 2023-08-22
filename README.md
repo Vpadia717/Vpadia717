@@ -53,18 +53,18 @@ I am an ambitious and self-driven undergraduate with a strong desire to revoluti
 
 ## 📚 Latest GitHub Projects
 
-[![LaneGuard](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=LaneGuard&show_owner=false)](https://github.com/Vpadia717/LaneGuard)
-[![NeuroThreads](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=NeuroThreads&show_owner=false)](https://github.com/Vpadia717/NeuroThreads)
-[![Galactic_Conquest](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=Galactic_Conquest&show_owner=false)](https://github.com/Vpadia717/Galactic_Conquest)
-[![IMDB-Movie-Review-Sentiment-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=IMDB-Movie-Review-Sentiment-Analysis-with-TensorFlow-and-Hub&show_owner=false)](https://github.com/Vpadia717/IMDB-Movie-Review-Sentiment-Analysis-with-TensorFlow-and-Hub)
-[![App06_29](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=App06_29&show_owner=false)](https://github.com/Vpadia717/App06_29)
-[![Avocado_Price_Trends_by_Region](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=Avocado_Price_Trends_by_Region&show_owner=false)](https://github.com/Vpadia717/Avocado_Price_Trends_by_Region)
-[![Data_Visualization](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=Data_Visualization&show_owner=false)](https://github.com/Vpadia717/Data_Visualization)
-[![Automated_File_Organizer](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=Automated_File_Organizer&show_owner=false)](https://github.com/Vpadia717/Automated_File_Organizer)
-[![Pharmnet](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=Pharmnet&show_owner=false)](https://github.com/Vpadia717/Pharmnet)
-[![GDP_Growth](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=GDP_Growth&show_owner=false)](https://github.com/Vpadia717/GDP_Growth)
-[![Tensorflow_Image_Extractor](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=Tensorflow_Image_Extractor&show_owner=false)](https://github.com/Vpadia717/Tensorflow_Image_Extractor)
-[![Village_Era](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=Village_Era&show_owner=false)](https://github.com/Vpadia717/Village_Era)
+[![LaneGuard](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=LaneGuard&border_radius=10&show_owner=false)](https://github.com/Vpadia717/LaneGuard)
+[![NeuroThreads](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=NeuroThreads&show_owner=false)](https://github.com/Vpadia717/NeuroThreads)
+[![Galactic_Conquest](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=Galactic_Conquest&show_owner=false)](https://github.com/Vpadia717/Galactic_Conquest)
+[![IMDB-Movie-Review-Sentiment-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=IMDB-Movie-Review-Sentiment-Analysis-with-TensorFlow-and-Hub&show_owner=false)](https://github.com/Vpadia717/IMDB-Movie-Review-Sentiment-Analysis-with-TensorFlow-and-Hub)
+[![App06_29](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=App06_29&show_owner=false)](https://github.com/Vpadia717/App06_29)
+[![Avocado_Price_Trends_by_Region](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=Avocado_Price_Trends_by_Region&show_owner=false)](https://github.com/Vpadia717/Avocado_Price_Trends_by_Region)
+[![Data_Visualization](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=Data_Visualization&show_owner=false)](https://github.com/Vpadia717/Data_Visualization)
+[![Automated_File_Organizer](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=Automated_File_Organizer&show_owner=false)](https://github.com/Vpadia717/Automated_File_Organizer)
+[![Pharmnet](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=Pharmnet&show_owner=false)](https://github.com/Vpadia717/Pharmnet)
+[![GDP_Growth](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=GDP_Growth&show_owner=false)](https://github.com/Vpadia717/GDP_Growth)
+[![Tensorflow_Image_Extractor](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=Tensorflow_Image_Extractor&show_owner=false)](https://github.com/Vpadia717/Tensorflow_Image_Extractor)
+[![Village_Era](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=Village_Era&show_owner=false)](https://github.com/Vpadia717/Village_Era)
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me-blue?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Vpadia717)
 
@@ -72,7 +72,7 @@ I am an ambitious and self-driven undergraduate with a strong desire to revoluti
 
 <img src="https://github-profile-trophy.vercel.app/?username=vpadia717" alt="vpadia717" />
 
-![Vivek Padia's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&rank_icon=github)
+![Vivek Padia's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&hide_border=true&border_radius=10&rank_icon=github)
 
 <img align="center" src="https://streak-stats.demolab.com?user=vpadia717&theme=react&hide_border=true&border_radius=10" alt="vpadia717" />
 
