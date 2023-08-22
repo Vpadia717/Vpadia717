@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Padia</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer+%7C+AI+Developer+%7C+Project+Manager+%7C+UI+%2F+UX+Designer+%7C+QA+%7C+ML+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Full+Stack+Developer"/>
 
 <img src="https://komarev.com/ghpvc/?username=vpadia717&label=Profile%20views&color=0e75b6&style=flat" alt="vpadia717" />
 
