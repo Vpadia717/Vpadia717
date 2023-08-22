@@ -74,10 +74,10 @@ I am an ambitious and self-driven undergraduate with a strong desire to revoluti
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <a style="flex: 1; text-align: center; padding: 10px;" href="#">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&hide_border=true&border_radius=10&rank_icon=github" alt="GitHub Stats" />
+    <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&hide_border=true&border_radius=10&rank_icon=github" alt="GitHub Stats" />
   </a>
   <a style="flex: 1; text-align: center; padding: 10px;" href="#">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vpadia717&hide=HTML&langs_count=5&layout=donut&theme=react&hide_border=true&border_radius=10" alt="Top Languages" />
+    <img height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vpadia717&hide=HTML&langs_count=5&layout=donut&theme=react&hide_border=true&border_radius=10" alt="Top Languages" />
   </a>
   <a style="flex: 2; text-align: center; padding: 10px;" href="#">
     <img src="https://streak-stats.demolab.com?user=vpadia717&theme=react&hide_border=true&border_radius=10" alt="vpadia717" />
