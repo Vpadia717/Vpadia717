@@ -66,7 +66,7 @@ I am an ambitious and self-driven undergraduate with a strong desire to revoluti
 [![Pharmnet](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=Pharmnet&show_owner=false)](https://github.com/Vpadia717/Pharmnet)
 [![GDP_Growth](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=GDP_Growth&show_owner=false)](https://github.com/Vpadia717/GDP_Growth)
 [![Tensorflow_Image_Extractor](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=Tensorflow_Image_Extractor&show_owner=false)](https://github.com/Vpadia717/Tensorflow_Image_Extractor)
-[![Village_Era](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&repo=Village_Era&show_owner=false)](https://github.com/Vpadia717/Village_Era)
+[![Village_Era](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=Village_Era&show_owner=false)](https://github.com/Vpadia717/Village_Era)
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Follow%20Me-blue?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/Vpadia717)
 
