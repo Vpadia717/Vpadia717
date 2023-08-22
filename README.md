@@ -72,11 +72,11 @@ I am an ambitious and self-driven undergraduate with a strong desire to revoluti
 
 ## 📊 GitHub Stats
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vpadia717&theme=react&hide_border=true&border_radius=10" />
+<a>
+  <img align="center" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&hide_border=true&border_radius=10&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vpadia717&theme=react&hide_border=true&border_radius=10&layout=compact&langs_count=15" />
+<a>
+  <img align="center" height="200" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vpadia717&hide=HTML&langs_count=15&layout=compact&theme=react&hide_border=true&border_radius=10" />
 </a>
 
 <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&hide_border=true&border_radius=10&rank_icon=github" alt="vpadia717" />
