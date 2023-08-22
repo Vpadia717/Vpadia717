@@ -55,7 +55,7 @@ I am an ambitious and self-driven undergraduate with a strong desire to revoluti
 
 ## 📚 Latest GitHub Projects
 
-[![LaneGuard](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&repo=github-readme-stats&theme=react&hide_border=true&repo=LaneGuard&border_radius=10&show_owner=false)](https://github.com/Vpadia717/LaneGuard)
+[![LaneGuard](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=LaneGuard&border_radius=10&show_owner=false)](https://github.com/Vpadia717/LaneGuard)
 [![NeuroThreads](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=NeuroThreads&show_owner=false)](https://github.com/Vpadia717/NeuroThreads)
 [![Galactic_Conquest](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=Galactic_Conquest&show_owner=false)](https://github.com/Vpadia717/Galactic_Conquest)
 [![IMDB-Movie-Review-Sentiment-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=IMDB-Movie-Review-Sentiment-Analysis-with-TensorFlow-and-Hub&show_owner=false)](https://github.com/Vpadia717/IMDB-Movie-Review-Sentiment-Analysis-with-TensorFlow-and-Hub)
