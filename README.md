@@ -7,7 +7,7 @@ I am an ambitious and self-driven undergraduate with a strong desire to revoluti
 
 ## 📝 Portfolio and Contact
 
-- Explore my portfolio and experiences on my website: [`Vivek Padia's Portfolio`](https://vpadia717.github.io/VDevStack)
+- Explore my portfolio and experiences on my website: [![Vivek Padia's Portfolio](https://vpadia717.github.io/VDevStack)](https://vpadia717.github.io/VDevStack)
 
 ## 🧰 Languages and Tools
 
