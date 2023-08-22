@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Padia</h1>
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&lines=Full+Stack+Developer"/>
 
 <img src="https://komarev.com/ghpvc/?username=vpadia717&label=Profile%20views&color=0e75b6&style=flat" alt="vpadia717" />
 
@@ -72,7 +72,7 @@ I am an ambitious and self-driven undergraduate with a strong desire to revoluti
 
 <img src="https://github-profile-trophy.vercel.app/?username=vpadia717" alt="vpadia717" />
 
-![Vivek Padia's GitHub stats](https://github-readme-stats.vercel.app/api?username=vpadia717&show_icons=true&theme=gruvbox)
+![Vivek Padia's GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&rank_icon=github)
 
 <img align="center" src="https://streak-stats.demolab.com?user=vpadia717&theme=react&hide_border=true&border_radius=10" alt="vpadia717" />
 
