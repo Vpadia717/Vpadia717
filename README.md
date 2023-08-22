@@ -72,24 +72,17 @@ I am an ambitious and self-driven undergraduate with a strong desire to revoluti
 
 ## 📊 GitHub Stats
 
-<!-- <a>
-  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&hide_border=true&border_radius=10&rank_icon=github" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vpadia717&hide=HTML&langs_count=10&layout=compact&theme=react&hide_border=true&border_radius=10" />
-</a> -->
-
 <div style="display: flex; justify-content: center; align-items: center;">
   <a style="flex: 1; text-align: center; padding: 10px;" href="#">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&hide_border=true&border_radius=10&rank_icon=github" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&hide_border=true&border_radius=10&rank_icon=github" alt="GitHub Stats" style="height: 250px;" />
   </a>
   <a style="flex: 1; text-align: center; padding: 10px;" href="#">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vpadia717&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Top Languages" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vpadia717&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Top Languages" style="height: 250px;" />
   </a>
 </div>
 
-<a>
-<img align="center" src="https://streak-stats.demolab.com?user=vpadia717&theme=react&hide_border=true&border_radius=10" alt="vpadia717" />
+<a style="display: block; text-align: center;">
+  <img src="https://streak-stats.demolab.com?user=vpadia717&theme=react&hide_border=true&border_radius=10" alt="vpadia717" style="width: 100vw; max-width: 100%; height: auto;" />
 </a>
 
 ## 🌐 Connect with Me
