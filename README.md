@@ -70,11 +70,11 @@ I am an ambitious and self-driven undergraduate with a strong desire to revoluti
 
 ## 📊 GitHub Stats
 
-<img src="https://github-profile-trophy.vercel.app/api?username=vpadia717" alt="vpadia717" />
-
 <img align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&hide_border=true&border_radius=10&rank_icon=github" alt="vpadia717" />
 
 <img align="center" src="https://streak-stats.demolab.com?user=vpadia717&theme=react&hide_border=true&border_radius=10" alt="vpadia717" />
+
+<img align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vpadia717&hide=HTML&langs_count=15&layout=compact&theme=react&border_radius=10&exclude_repo=github-readme-stats" alt="vpadia717" />
 
 ## 🌐 Connect with Me
 
