@@ -55,6 +55,7 @@ I am an ambitious and self-driven undergraduate with a strong desire to revoluti
 
 ## 📚 Latest GitHub Projects
 
+[![ML Adventure Repo](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=ML-Adventure-Repo&border_radius=10&show_owner=false)]([https://github.com/Vpadia717/ML-Adventure-Repo](https://github.com/Vpadia717/ML-Adventure-Repo))
 [![LaneGuard](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&repo=LaneGuard&border_radius=10&show_owner=false)](https://github.com/Vpadia717/LaneGuard)
 [![NeuroThreads](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=NeuroThreads&show_owner=false)](https://github.com/Vpadia717/NeuroThreads)
 [![Galactic_Conquest](https://github-readme-stats.vercel.app/api/pin/?username=Vpadia717&theme=react&hide_border=true&border_radius=10&repo=Galactic_Conquest&show_owner=false)](https://github.com/Vpadia717/Galactic_Conquest)
