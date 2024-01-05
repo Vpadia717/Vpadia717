@@ -5,7 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=vpadia717&label=Profile%20views&color=0e75b6&style=flat" alt="vpadia717" />
 
-I am an ambitious and self-driven undergraduate with a strong desire to revolutionize the world of information technology. With 2+ years of experience in web and mobile application design and development, I seamlessly blend artistry and innovation to create digital excellence. My skill set encompasses UI/UX design, full-stack development, technical project management, and technical product management. Throughout my journey, I have taken on pivotal roles that have shaped my expertise, from leading teams to bridging the gap between education and industry. I thrive in navigating complex challenges and contributing to organizational progress. My effective communication, research abilities, and strategic thinking complement my agile methodologies and flawless project management.
+I am an ambitious and self-driven undergraduate with a strong desire to revolutionize the world of information technology. With 5+ years of experience in web and mobile application design and development, I seamlessly blend artistry and innovation to create digital excellence. My skill set encompasses UI/UX design, full-stack development, technical project management, and technical product management. Throughout my journey, I have taken on pivotal roles that have shaped my expertise, from leading teams to bridging the gap between education and industry. I thrive in navigating complex challenges and contributing to organizational progress. My effective communication, research abilities, and strategic thinking complement my agile methodologies and flawless project management.
 
 ## 📝 Portfolio and Contact
 
