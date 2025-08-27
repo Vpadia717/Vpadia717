@@ -9,7 +9,7 @@ I am an ambitious and self-driven undergraduate with a strong desire to revoluti
 
 ## 📝 Portfolio and Contact
 
-- Explore my portfolio and experiences on my website: [Vivek Padia's Portfolio](https://v-codex.pages.dev/)
+- Explore my portfolio and experiences on my website: [Vivek Padia's Portfolio](https://vivekpadia.com/)
 
 ## 🧰 Languages and Tools
 
