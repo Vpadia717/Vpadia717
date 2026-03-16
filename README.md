@@ -12,7 +12,7 @@
 &nbsp;
 <a href="mailto:vivekpadia2706@gmail.com"><img src="https://img.shields.io/badge/Gmail-vivekpadia2706-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/vivek-padia"><img src="https://img.shields.io/badge/LinkedIn-vivek--padia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vivek-padia-4a30601b5/"><img src="https://img.shields.io/badge/LinkedIn-vivek--padia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -68,57 +68,57 @@ Results-driven **IT Solutions Architect & Full-Stack Analytics Engineer** with 7
 
 ### 🖥️ Languages & Frameworks
 <p align="left">
-<img alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
-<img alt="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
-<img alt="TypeScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
-<img alt="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-<img alt="SQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL / MySQL"/>
-<img alt="PHP" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP"/>
-<img alt="Kotlin" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin"/>
-<img alt="Swift" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift"/>
-<img alt="Dart" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart"/>
-<img alt="Ruby" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby"/>
-<img alt="R" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" title="R"/>
-<img alt="C++" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" title="C++"/>
-<img alt="C" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
+<img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
+<img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript"/>
+<img alt="TypeScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript"/>
+<img alt="Java" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java"/>
+<img alt="SQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" title="SQL / MySQL"/>
+<img alt="PHP" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP"/>
+<img alt="Kotlin" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" title="Kotlin"/>
+<img alt="Swift" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" title="Swift"/>
+<img alt="Dart" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" title="Dart"/>
+<img alt="Ruby" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" title="Ruby"/>
+<img alt="R" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" title="R"/>
+<img alt="C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++"/>
+<img alt="C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C"/>
 </p>
 
 ### ⚛️ Frontend & Mobile
 <p align="left">
-<img alt="React" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js"/>
-<img alt="Next.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js"/>
-<img alt="Angular" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular"/>
-<img alt="Vue" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js"/>
-<img alt="TailwindCSS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS"/>
-<img alt="HTML5" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML5"/>
-<img alt="CSS3" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
-<img alt="Flutter" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter"/>
-<img alt="Android" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="Android"/>
+<img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React.js"/>
+<img alt="Next.js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js"/>
+<img alt="Angular" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" title="Angular"/>
+<img alt="Vue" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" title="Vue.js"/>
+<img alt="TailwindCSS" width="40" height="40" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="TailwindCSS"/>
+<img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" title="HTML5"/>
+<img alt="CSS3" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
+<img alt="Flutter" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="Flutter"/>
+<img alt="Android" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" title="Android"/>
 </p>
 
 ### 🔧 Backend & Infrastructure
 <p align="left">
-<img alt="Node.js" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
-<img alt="Laravel" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel"/>
-<img alt="Docker" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
-<img alt="Kubernetes" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"/>
-<img alt="Apache" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" title="Apache"/>
+<img alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+<img alt="Laravel" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" title="Laravel"/>
+<img alt="Docker" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker"/>
+<img alt="Kubernetes" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"/>
+<img alt="Apache" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" title="Apache"/>
 </p>
 
 ### ☁️ Cloud & Data Platforms
 <p align="left">
-<img alt="AWS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS"/>
-<img alt="Google Cloud" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform"/>
-<img alt="Azure" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Microsoft Azure"/>
-<img alt="Firebase" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" title="Firebase"/>
-<img alt="MongoDB" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
-<img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+<img alt="AWS" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"/>
+<img alt="Google Cloud" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform"/>
+<img alt="Azure" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Microsoft Azure"/>
+<img alt="Firebase" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" title="Firebase"/>
+<img alt="MongoDB" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB"/>
+<img alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
 </p>
 
 ### 📊 Data Engineering, Analytics & ML
 <p align="left">
-<img alt="TensorFlow" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/>
-<img alt="Anaconda" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" title="Anaconda / Jupyter"/>
+<img alt="TensorFlow" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/>
+<img alt="Anaconda" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" title="Anaconda / Jupyter"/>
 </p>
 
 ```
@@ -157,9 +157,9 @@ Statistical Analysis   │  A/B Testing · Probability Theory · Predictive Mode
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&hide_border=true&border_radius=10&rank_icon=github" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vpadia717&count_private=false&show_icons=true&theme=react&hide_border=true&border_radius=10&rank_icon=github" alt="GitHub Stats" height="180"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vpadia717&hide=HTML&langs_count=8&layout=donut&theme=react&hide_border=true&border_radius=10" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpadia717&hide=HTML&langs_count=8&layout=donut&theme=react&hide_border=true&border_radius=10" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
@@ -202,7 +202,7 @@ Statistical Analysis   │  A/B Testing · Probability Theory · Predictive Mode
   <img src="https://img.shields.io/badge/Portfolio-vivekpadia.com-1F4E79?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/vivek-padia" target="_blank">
+<a href="https://www.linkedin.com/in/vivek-padia-4a30601b5/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-vivek--padia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
