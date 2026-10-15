@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=vpadia717&label=Profile+Views&color=1F4E79&style=for-the-badge" alt="Profile views" />
 &nbsp;
-<a href="https://vivekpadia.com"><img src="https://img.shields.io/badge/🌐_Portfolio-vivekpadia.com-1F4E79?style=for-the-badge" /></a>
+<a href="https://vivekpadia.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-vivekpadia.vercel.app-1F4E79?style=for-the-badge" /></a>
 &nbsp;
 <a href="mailto:vivekpadia2706@gmail.com"><img src="https://img.shields.io/badge/Gmail-vivekpadia2706-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 &nbsp;
@@ -198,8 +198,8 @@ Statistical Analysis   │  A/B Testing · Probability Theory · Predictive Mode
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://vivekpadia.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-vivekpadia.com-1F4E79?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://vivekpadia.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-vivekpadia.vercel.app-1F4E79?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/vivek-padia-4a30601b5/" target="_blank">
